@@ -15,5 +15,5 @@ We focus on turning ideas into clear, usable digital products with practical str
 ## Connect
 
 - Website: [abld.site](https://abld.site)
-- LinkedIn: [linkedin.com/company/a-bld](https://www.linkedin.com/company/a-bld)
+- LinkedIn: [linkedin.com/company/abld-compoany](https://www.linkedin.com/company/abld-compoany)
 - Email: [hello@abld.site](mailto:hello@abld.site)
